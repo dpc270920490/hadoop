@@ -1,2 +1,5 @@
 com\qzt\hadoop\App.class
+com\qzt\mapreduce\WordCountApp$myReduce.class
 com\qzt\hadoop\LogGenerator.class
+com\qzt\mapreduce\WordCountApp.class
+com\qzt\mapreduce\WordCountApp$MyMapper.class
